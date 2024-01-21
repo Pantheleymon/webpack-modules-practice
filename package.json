@@ -1,0 +1,32 @@
+{
+  "name": "webpack-modules-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prokhor",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "core-js": "^3.6.5",
+    "json-server": "^0.16.3",
+    "webpack": "^4.47.0",
+    "webpack-cli": "^3.3.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Pantheleymon/webpack-modules-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pantheleymon/webpack-modules-practice/issues"
+  },
+  "homepage": "https://github.com/Pantheleymon/webpack-modules-practice#readme",
+  "description": ""
+}
